@@ -1,7 +1,7 @@
-<a href="https://github.com/ryo-ma/github-profile-trophy"><h2> Github Trophy</h2></a>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+<h2> Github Trophy</h2>
+<p>
   <img src="https://github-profile-trophy.vercel.app/?username=ponte1010&column=7"/>
-</a>
+</p>
 
 ---
 
