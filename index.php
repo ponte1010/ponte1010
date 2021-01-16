@@ -6,7 +6,6 @@ define('DIGIT', 8);
 $dbh = new PDO(
     'connection',
     'user',
-    'password'
 );
 
 $prepare = $dbh->prepare("UPDATE counter SET cnt = cnt + 1");
